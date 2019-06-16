@@ -1,2 +1,4 @@
 jupyter
 pulp
+numpy
+pandas
